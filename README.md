@@ -1,2 +1,4 @@
 # spotify-end-to-end-data-engineer-project
-An end-to-end data engineering project simulating a data pipeline for Spotify-like music streaming data. This repository demonstrates the process of designing, building, and deploying scalable data pipelines, extracting meaningful insights from streaming and user interaction data.
+This repository demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline for Spotify-like data using AWS services. The project involves extracting data from an API, storing and transforming the data in an AWS S3 bucket, and analyzing the processed data using AWS Glue and Amazon Athena.
+
+
