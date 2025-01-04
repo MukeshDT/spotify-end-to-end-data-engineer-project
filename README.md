@@ -1,6 +1,3 @@
-# spotify-end-to-end-data-engineer-project
-This repository demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline for Spotify-like data using AWS services. The project involves extracting data from an API, storing and transforming the data in an AWS S3 bucket, and analyzing the processed data using AWS Glue and Amazon Athena.
-
 # Spotify End-to-End Data Engineering ETL Project
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline for Spotify data using AWS services. It involves extracting data from the Spotify API, transforming the data, and loading it into an S3 bucket. The transformed data is organized into different folders (`album`, `songs`, and `artist`) for analysis through AWS Glue and Athena.
